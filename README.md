@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![jaiboy825's github stats](https://github-readme-stats.vercel.app/api?username=jaiboy825&show_icons=true&theme=radical)
 
+## contact
 - main : [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jeon_jai/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/jaiboy825/)
 - travel :  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jj_foto_voyage/)
 - email : jaiboy@naver.com
