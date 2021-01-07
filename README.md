@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 - email : jaiboy@naver.com
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/jaiboy825/)
-
 ![jaiboy825's github stats](https://github-readme-stats.vercel.app/api?username=jaiboy825&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiboy825&layout=compact&hide_border=true#1)](https://github.com/jaiboy825)
