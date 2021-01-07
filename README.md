@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm jeon jai!
 
 <!--
 **jaiboy825/jaiboy825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiboy825&layout=compact&hide_border=true#1)](https://github.com/jaiboy825)
+
+
+## Currently Learning
+- java
+- java Script
+- jsp
+- html,css
+- pythone
