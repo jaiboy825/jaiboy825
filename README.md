@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 
 ## Currently Learning
- - Java / JSP
- - Java Script
+ - Java / JSP / Spring + Boot
+ - Java Script / Node
  - HTML / CSS
  - PHP
  - Python
